@@ -1,1 +1,2 @@
-# Final-Project-2-JSP
+# JSPlatformer
+JS Platformer for DIG 3480C
